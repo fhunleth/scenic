@@ -4,7 +4,7 @@
 [![Codecov](https://codecov.io/gh/boydm/scenic/branch/master/graph/badge.svg)](https://codecov.io/gh/boydm/scenic)
 [![Inline Docs](http://inch-ci.org/github/boydm/scenic.svg)](http://inch-ci.org/github/boydm/scenic)
 
-Scenic is a client application library written directly on the
+Scenic foo is a client application library written directly on the
 Elixir/Erlang/OTP stack. With it you can build applications that operate
 identically across all supported operating systems, including MacOS, Ubuntu,
 Nerves/Linux, and more.
@@ -25,7 +25,7 @@ mix task.
 
 - **Small and Fast:** The only core dependencies are Erlang/OTP and OpenGL.
 
-- **Self Contained:** “Never trust a device if you don’t know where it keeps its
+- **Self-contained:** “Never trust a device if you don’t know where it keeps its
   brain.” The logic to run a device should be on the device and it should remain
   operational even if the service it talks to becomes unavailable.
 
